@@ -127,3 +127,15 @@ p {
     transition: all 400ms ease-in;
 }
 
+a:link {
+    color: #F5FBEF;
+}
+
+a:hover {
+    color: #332E3C !important;
+    transition: color 300ms ease-in;
+}
+
+a:visited {
+    color: #F5FBEF;
+}
